@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Source\SourceFiles.cs~RF5fef121.TMP" />
+  </ItemGroup>
+
 </Project>
